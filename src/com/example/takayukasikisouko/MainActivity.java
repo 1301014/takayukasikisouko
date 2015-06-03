@@ -28,7 +28,7 @@ public class MainActivity extends Activity implements OnClickListener{
 		
 		//DB‚ğg‚¤‚½‚ß‚Ì“¹‹ï‚ğ¶¬‚·‚é
 		db = new DBManager(this);
-		
+		//test
 		Button btn = (Button)findViewById(R.id.button1);
 		btn.setOnClickListener(this);
 		
